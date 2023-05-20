@@ -1,0 +1,25 @@
+{
+  "name": "byte-transformer",
+  "description": "ByteTransformer-Transform a Byte of data into various binary components/formats",
+  "main": "./src/lib/byte-transformer.js",
+  "authors": [
+    "Nnamdi Michael Okpala"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "byte",
+    "byte-transformer",
+    "formats",
+    "binary",
+    "data"
+  ],
+  "homepage": "https://github.com/okpalan/byte-transformer",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
